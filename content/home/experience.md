@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Nanjing"
   date_start = "2016-12-01"
   date_end = "2"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
 
 +++
