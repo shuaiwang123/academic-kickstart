@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Lector"
   company = "Nanjing Tech University"
-  company_url = ""
+  company_url = "http://www.njtech.edu.cn/"
   location = "Nanjing"
   date_start = "2016-12-01"
   date_end = "2"
