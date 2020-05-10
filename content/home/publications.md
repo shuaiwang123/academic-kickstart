@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
+Wang, S., Xu, W., Xu, C., Yin, Z., Bürgmann, R., Liu, L., & Jiang, G. (2019). Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake. Geophysical Research Letters, 46(6), 3189-3198.
+
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
