@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**_Wang, S.,_** Xu, C., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting, Earth and Space Science, 7(3), e2019EA000966.
+**_Wang, S.,_** Xu, C$^{*}$., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting, Earth and Space Science, 7(3), e2019EA000966.
 
 **_Wang, S.,_** Xu, W., Xu, C., Yin, Z., Bürgmann, R., Liu, L., & Jiang, G. (2019). Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake. Geophysical Research Letters, 46(6), 3189-3198.
 
