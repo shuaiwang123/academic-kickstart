@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include InSAR time series processing, large-scale tectonic deformation, tectonic geodesy, geodetic inversion.
 
 interests:
-- InSAR time series analysis
-- large-scale deformation in Tibet
+- multi-temporal InSAR analysis
+- large-scale deformation in Tibetan Plateau
 - geodetic inversion
 
 education:
