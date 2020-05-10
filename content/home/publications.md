@@ -78,7 +78,7 @@ Guo, Z., Wen, Y<sup>*</sup>., Xu, G., **_Wang, S_**., Wang, X., Liu, Y., Xu, C. 
 
 Wang, X., Xu, C<sup>*</sup>., Wen, Y., **_Wang, S.,_** Xu, G., Xiao, Z., & Fang, L. (2019). The 2016 Mw 6.0 Hutubi earthquake: a blind thrust event along the northern Tian Shan front. Journal of Asian Earth Science, 173, 79–87. 
 
-**_Wang, S.,_** Xu, C<sup>*</sup>., Xu W<sup>*</sup>., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. Seismological Research Letters, 90, 649-658. 
+**_Wang, S.,_** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. Seismological Research Letters, 90, 649-658. 
 
 **_Wang, S.,_** Xu, C<sup>*</sup>., Wen, Y., Yin, Z., Jiang, G., Fang, L. (2017). Slip model for the 25 November 2016 Mw 6.6 Aketao Earthquake, Western China, revealed by Sentinel-1 and ALOS-2 Observations. Remote Sensing, 9(4), 325
 
