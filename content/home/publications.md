@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**_Wang, S.,_** Xu, C., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting. Earth and Space Science, 7(3), e2019EA000966.
+**_Wang, S.,_** Xu, C<sup>*</sup>., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting. Earth and Space Science, 7(3), e2019EA000966.
 
 Niu, Y., **_Wang, S_**., Zhu, W., Zhang, Q., Lu, Z., Zhao, C., & Qu, W. (2020). The 2014 Mw 6.1 Ludian Earthquake: The Application of RADARSAT-2 SAR Interferometry and GPS for this Conjugated Ruptured Event. Remote Sensing, 12(1), 99.
 
