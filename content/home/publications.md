@@ -94,7 +94,3 @@ Wang, X., Xu, C<sup>*</sup>., Wen, Y., **_Wang, S.,_** Xu, G., Xiao, Z., & Fang,
 
 **_王帅<sup>*</sup>_**, 张永志, 姜永涛, 姚志军, & 刘国仕. (2014). 断层滑动分布和位错模型影响效应的显著性分析.大地测量与地球动力学, 34(6), 20-25.
 
-# {{% alert note %}}
-
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
