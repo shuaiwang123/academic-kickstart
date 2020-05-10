@@ -20,19 +20,19 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "The Hong Kong Polytechnic University"
-  company_url = ""
+  company_url = "https://www.polyu.edu.hk/"
   location = "Hong Kong"
   date_start = "2017-07-01"
   date_end = "2018-04-01"
   description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Lector"
+  company = "Nanjing Tech University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Nanjing"
+  date_start = "2016-12-01"
+  date_end = "2"
+  # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
