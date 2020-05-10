@@ -24,15 +24,15 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2017-07-01"
   date_end = "2018-04-01"
-  description = """ """
+  description = """111"""
 
 [[experience]]
   title = "Lector"
   company = "Nanjing Tech University"
   company_url = "http://www.njtech.edu.cn/"
   location = "Nanjing"
-  date_start = "2016-12-01"
+  date_start = "2019-12-01"
   date_end = ""
-  description = """ """
+  description = """111"""
 
 +++
