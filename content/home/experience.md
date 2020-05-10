@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Hong Kong"
   date_start = "2017-07-01"
   date_end = "2018-04-01"
-  description = """111"""
+  description = """"""
 
 [[experience]]
   title = "Lector"
@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Nanjing"
   date_start = "2019-12-01"
   date_end = ""
-  description = """111"""
+  description = """"""
 
 +++
