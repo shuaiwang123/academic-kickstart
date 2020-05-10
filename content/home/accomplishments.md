@@ -20,9 +20,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Course"
+  organization = "Undergraduate course"
   organization_url = ""
   title = "The principle and application of Interferometric Synthetic Aperture Radar (InSAR)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  organization = "Graduate course"
+  organization_url = ""
+  title = "Monitoring deformation using the multi-temporal InSAR analysis method"
   url = ""
   certificate_url = ""
   date_start = "2020-09-01"
