@@ -32,7 +32,7 @@ date_format = "Jan 2006"
  [[item]]
   organization = "Graduate course"
   organization_url = ""
-  title = "Monitoring deformation using the multi-temporal InSAR analysis method"
+  title = "Monitoring deformation using space geodesy"
   url = ""
   certificate_url = ""
   date_start = "2020-09-01"
