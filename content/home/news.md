@@ -69,6 +69,6 @@ subtitle = ""
 
 Shuai published a paper on ESS.
 
-![](https://github.com/shuaiwang123/academic-kickstart/static/img/2019GRL.png)
+![](https://github.com/shuaiwang123/academic-kickstart/tree/master/content/authors/admin/avatar.jpg)
 
 Website of G3 group at NJTech is coming out.
