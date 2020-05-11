@@ -66,4 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[Websit of G3 group at NJTech is coming out.](https://shwang.netlify.app/#featured)
+Shuai published a paper on ESS ![2019GRL 图标](https://github.com/shuaiwang123/academic-kickstart/blob/master/static/img/2019GRL.png)
+
+Websit of G3 group at NJTech is coming out.
