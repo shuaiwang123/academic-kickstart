@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-![alternative text for search engines](/img/2020ESS.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![alternative text for search engines](/img/2020ESS.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/50)
 [Shuai published a paper on ESS](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000966).
 
 Website of G3 group at NJTech is coming out.
