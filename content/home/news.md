@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< figure library="true" src="2020ESS.png" title="" lightbox="true" width="200" height="200" align="middle" >}}
+{{< figure library="true" src="2020ESS.png" title="" lightbox="true" width="250" height="250" align="left" >}}
 [Shuai published a paper on ESS](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000966).
 
 Website of G3 group at NJTech is coming out.
