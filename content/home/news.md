@@ -67,8 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Shuai published a paper on ESS.
-
-![news](https://github.com/shuaiwang123/academic-kickstart/content/authors/admin/avatar.jpg)
+[Shuai published a paper on ESS](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000966).
 
 Website of G3 group at NJTech is coming out.
