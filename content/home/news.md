@@ -69,4 +69,4 @@ subtitle = ""
 {{< figure library="true" src="2020ESS.png" title="" lightbox="true" width="300" height="300" align="left" >}}
 [Shuai published a paper on ESS](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000966).
 
-<font color=#FF0000 >Website of G3 group at NJTech is coming out.</font>
+<font color=#FF0000 >Shuai's homepage is coming out.</font>
