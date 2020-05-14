@@ -68,8 +68,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**_Wang S_**., Xu, C., Xu W. The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. International Symposium on Geodesy and Geodynamics (ISGG 2018)-Tectonics, Earthquake, and Geohazard, 2018, Kunming
+**- 2018 -**
+**Wang S**., Xu, C., Xu W. The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. International Symposium on Geodesy and Geodynamics (ISGG 2018)-Tectonics, Earthquake, and Geohazard, 2018, Kunming
 
-**_Wang S_**., Xu C. Effects of fault geometry on slip model inversion: A case study of 2015 April 25 Mw 7.8 Gorkha Nepal earthquake. 2st CCGG: 2nd Congress of China Geodesy and Geophysics, 2016，Nanjing, China
+**- 2016 -**
+**Wang S**., Xu C. Effects of fault geometry on slip model inversion: A case study of 2015 April 25 Mw 7.8 Gorkha Nepal earthquake. 2st CCGG: 2nd Congress of China Geodesy and Geophysics, 2016，Nanjing, China
 
-**_Wang S_**., Zhang Y. Relationslip between faults three-dimensional rotation and surface deformation. 1st CCGG: Congress of China Geodesy and Geophysics, 2014, Beijing, China. 
+**- 2015 -**
+**Wang S**., Zhang Y. Relationslip between faults three-dimensional rotation and surface deformation. 1st CCGG: Congress of China Geodesy and Geophysics, 2014, Beijing, China. 
