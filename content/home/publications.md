@@ -66,31 +66,31 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**_Wang, S.,_** Xu, C<sup>*</sup>., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting. Earth and Space Science, 7(3), e2019EA000966.
+**Wang, S.,** Xu, C<sup>*</sup>., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting. **Earth and Space Science**, 7(3), e2019EA000966.
 
-Niu, Y., **_Wang, S_**., Zhu, W., Zhang, Q<sup>*</sup>., Lu, Z., Zhao, C., & Qu, W. (2020). The 2014 Mw 6.1 Ludian earthquake: The application of RADARSAT-2 SAR Interferometry and GPS for this conjugated ruptured event. Remote Sensing, 12(1), 99.
+Niu, Y., **Wang, S**., Zhu, W., Zhang, Q<sup>*</sup>., Lu, Z., Zhao, C., & Qu, W. (2020). The 2014 Mw 6.1 Ludian earthquake: The application of RADARSAT-2 SAR Interferometry and GPS for this conjugated ruptured event. **Remote Sensing**, 12(1), 99.
 
-**_Wang, S.,_** Xu, W<sup>*</sup>., Xu, C., Yin, Z., Bürgmann, R., Liu, L., & Jiang, G. (2019). Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake. Geophysical Research Letters, 46(6), 3189-3198.
+**Wang, S**., Xu, W<sup>*</sup>., Xu, C., Yin, Z., Bürgmann, R., Liu, L., & Jiang, G. (2019). Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake. **Geophysical Research Letters**, 46(6), 3189-3198.
 
-Fang, J., Xu, C<sup>*</sup>., Wen, Y., **_Wang, S_**.，Xu, G.，Zhao, Y.，Yi, L. (2019). The 2018 Mw 7.5 Palu Earthquake: A Supershear rupture event constrained by InSAR and broadband regional seismograms. Remote Sensing, 11, 1330.
+Fang, J., Xu, C<sup>*</sup>., Wen, Y., **Wang, S**.，Xu, G.，Zhao, Y.，Yi, L. (2019). The 2018 Mw 7.5 Palu Earthquake: A Supershear rupture event constrained by InSAR and broadband regional seismograms. **Remote Sensing**, 11, 1330.
 
-Guo, Z., Wen, Y<sup>*</sup>., Xu, G., **_Wang, S_**., Wang, X., Liu, Y., Xu, C. (2019). Fault slip model of the 2018 Mw 6.6 Hokkaido eastern Iburi, Japan, earthquake estimated from satellite radar and GPS measurements. Remote Sensing, 11(14),1667.
+Guo, Z., Wen, Y<sup>*</sup>., Xu, G., **Wang, S**., Wang, X., Liu, Y., Xu, C. (2019). Fault slip model of the 2018 Mw 6.6 Hokkaido eastern Iburi, Japan, earthquake estimated from satellite radar and GPS measurements. **Remote Sensing**, 11(14),1667.
 
-Wang, X., Xu, C<sup>*</sup>., Wen, Y., **_Wang, S.,_** Xu, G., Xiao, Z., & Fang, L. (2019). The 2016 Mw 6.0 Hutubi earthquake: a blind thrust event along the northern Tian Shan front. Journal of Asian Earth Science, 173, 79–87. 
+Wang, X., Xu, C<sup>*</sup>., Wen, Y., **Wang, S.,** Xu, G., Xiao, Z., & Fang, L. (2019). The 2016 Mw 6.0 Hutubi earthquake: a blind thrust event along the northern Tian Shan front. **Journal of Asian Earth Science**, 173, 79–87. 
 
-**_Wang, S.,_** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. Seismological Research Letters, 90, 649-658. 
+**Wang, S.,** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. **Seismological Research Letters**, 90, 649-658. 
 
-**_Wang, S.,_** Xu, C<sup>*</sup>., Wen, Y., Yin, Z., Jiang, G., Fang, L. (2017). Slip model for the 25 November 2016 Mw 6.6 Aketao Earthquake, Western China, revealed by Sentinel-1 and ALOS-2 Observations. Remote Sensing, 9(4), 325
+**Wang, S**., Xu, C<sup>*</sup>., Wen, Y., Yin, Z., Jiang, G., Fang, L. (2017). Slip model for the 25 November 2016 Mw 6.6 Aketao Earthquake, Western China, revealed by Sentinel-1 and ALOS-2 Observations. **Remote Sensing**, 9(4), 325
 
-**_王帅<sup>*</sup>_**, 张永志, 姜永涛, & 刘宁. (2016). 断层三维转动及其引起的地表形变空间分布特征. 武汉大学学报(信息科学版), 41(5), 704-710.
+**王帅<sup>*</sup>**, 张永志, 姜永涛, & 刘宁. (2016). 断层三维转动及其引起的地表形变空间分布特征. **武汉大学学报(信息科学版)**, 41(5), 704-710.
 
-**_王帅<sup>*</sup>_**, 张永志, 吴然, & 姜永涛. (2015). 利用GPS观测分析青藏高原东缘应变特征, 大地测量与地球动力学, 35(2), 253-257.
+**王帅<sup>*</sup>**, 张永志, 吴然, & 姜永涛. (2015). 利用GPS观测分析青藏高原东缘应变特征, **大地测量与地球动力学**, 35(2), 253-257.
 
-**_王帅<sup>*</sup>_**, 张永志, & 姜永涛. (2015). 结合欧拉矢量的反演算法构建青藏高原东北缘地壳运动速度场模型. 地震工程学报, 37(1), 214-221
+**王帅<sup>*</sup>**, 张永志, & 姜永涛. (2015). 结合欧拉矢量的反演算法构建青藏高原东北缘地壳运动速度场模型. **地震工程学报**, 37(1), 214-221
 
-**_王帅<sup>*</sup>_**, 张永志, 牛玉芬, & 姜永涛. (2015). 青藏高原北缘地应变演化特征. 地球物理学进展, 30(1), 57-60.
+**王帅<sup>*</sup>**, 张永志, 牛玉芬, & 姜永涛. (2015). 青藏高原北缘地应变演化特征. **地球物理学进展**, 30(1), 57-60.
 
-**_王帅<sup>*</sup>_**, 张永志, 姜永涛, 等. (2014). 维多样性的动态权重粒子群算法反演断层滑动速率. 地球物理学进展, 29(4): 1766-1771. 
+**王帅<sup>*</sup>**, 张永志, 姜永涛, 等. (2014). 维多样性的动态权重粒子群算法反演断层滑动速率. **地球物理学进展**, 29(4): 1766-1771. 
 
-**_王帅<sup>*</sup>_**, 张永志, 姜永涛, 姚志军, & 刘国仕. (2014). 断层滑动分布和位错模型影响效应的显著性分析.大地测量与地球动力学, 34(6), 20-25.
+**王帅<sup>*</sup>**, 张永志, 姜永涛, 姚志军, & 刘国仕. (2014). 断层滑动分布和位错模型影响效应的显著性分析.**大地测量与地球动力学**, 34(6), 20-25.
 
