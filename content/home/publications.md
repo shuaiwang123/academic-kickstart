@@ -66,13 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**- 2020 -**
+- 2020 -
 
 **Wang, S.,** Xu, C<sup>*</sup>., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting. **_Earth and Space Science_**, 7(3), e2019EA000966.
 
 Niu, Y., **Wang, S**., Zhu, W., Zhang, Q<sup>*</sup>., Lu, Z., Zhao, C., & Qu, W. (2020). The 2014 Mw 6.1 Ludian earthquake: The application of RADARSAT-2 SAR Interferometry and GPS for this conjugated ruptured event. **_Remote Sensing_**, 12(1), 99.
 
-**- 2019 -**
+- 2019 -
 
 **Wang, S**., Xu, W<sup>*</sup>., Xu, C., Yin, Z., Bürgmann, R., Liu, L., & Jiang, G. (2019). Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake. **_Geophysical Research Letters_**, 46(6), 3189-3198.
 
@@ -82,19 +82,19 @@ Guo, Z., Wen, Y<sup>*</sup>., Xu, G., **Wang, S**., Wang, X., Liu, Y., Xu, C. (2
 
 Wang, X., Xu, C<sup>*</sup>., Wen, Y., **Wang, S.,** Xu, G., Xiao, Z., & Fang, L. (2019). The 2016 Mw 6.0 Hutubi earthquake: a blind thrust event along the northern Tian Shan front. **_Journal of Asian Earth Science_**, 173, 79–87. 
 
-**- 2018 -**
+- 2018 -
 
 **Wang, S.,** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. **_Seismological Research Letters_**, 90, 649-658. 
 
-**- 2017 -**
+- 2017 -
 
 **Wang, S**., Xu, C<sup>*</sup>., Wen, Y., Yin, Z., Jiang, G., Fang, L. (2017). Slip model for the 25 November 2016 Mw 6.6 Aketao Earthquake, Western China, revealed by Sentinel-1 and ALOS-2 Observations. **_Remote Sensing_**, 9(4), 325
 
-**- 2016 -**
+- 2016 -
 
 **王帅<sup>*</sup>**, 张永志, 姜永涛, & 刘宁. (2016). 断层三维转动及其引起的地表形变空间分布特征. **_武汉大学学报(信息科学版)_**, 41(5), 704-710.
 
-**- 2015 -**
+- 2015 -
 
 **王帅<sup>*</sup>**, 张永志, 吴然, & 姜永涛. (2015). 利用GPS观测分析青藏高原东缘应变特征, **_大地测量与地球动力学_**, 35(2), 253-257.
 
@@ -102,7 +102,7 @@ Wang, X., Xu, C<sup>*</sup>., Wen, Y., **Wang, S.,** Xu, G., Xiao, Z., & Fang, L
 
 **王帅<sup>*</sup>**, 张永志, 牛玉芬, & 姜永涛. (2015). 青藏高原北缘地应变演化特征. **_地球物理学进展_**, 30(1), 57-60.
 
-**- 2014 -**
+- 2014 -
 
 **王帅<sup>*</sup>**, 张永志, 姜永涛, 等. (2014). 维多样性的动态权重粒子群算法反演断层滑动速率. **_地球物理学进展_**, 29(4): 1766-1771. 
 
