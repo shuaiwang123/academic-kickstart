@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="2020ESS.png" title="" lightbox="true" width="300" height="300" align="left" >}}
-[Shuai published a paper on ESS](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000966).
+[The work on the 2018 Papua New Guinea Mw 7.5 earthquake has been published in Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000966).
 
-<font color=#FF0000 >Shuai's homepage is coming out.</font>
+<font color=#FF0000 >Shuai Wang's homepage is coming out.</font>
