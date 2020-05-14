@@ -87,6 +87,7 @@ Wang, X., Xu, C<sup>*</sup>., Wen, Y., **Wang, S.,** Xu, G., Xiao, Z., & Fang, L
 **Wang, S**., Xu, C<sup>*</sup>., Wen, Y., Yin, Z., Jiang, G., Fang, L. (2017). Slip model for the 25 November 2016 Mw 6.6 Aketao Earthquake, Western China, revealed by Sentinel-1 and ALOS-2 Observations. **Remote Sensing**, 9(4), 325
 
 **- 2016 -**
+
 **王帅<sup>*</sup>**, 张永志, 姜永涛, & 刘宁. (2016). 断层三维转动及其引起的地表形变空间分布特征. **武汉大学学报(信息科学版)**, 41(5), 704-710.
 
 **- 2015 -**
