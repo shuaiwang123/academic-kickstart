@@ -72,6 +72,10 @@ subtitle = ""
 
 Niu, Y., **Wang, S**., Zhu, W., Zhang, Q<sup>*</sup>., Lu, Z., Zhao, C., & Qu, W. (2020). The 2014 Mw 6.1 Ludian earthquake: The application of RADARSAT-2 SAR Interferometry and GPS for this conjugated ruptured event. **_Remote Sensing_**, 12(1), 99.
 
+Yang, J., Xu, C., **Wang, S**., & Wang, X. (2020). Sentinel-1 observation of 2019 Mw 5.7 Acipayam earthquake: A blind normal-faulting event in the Acipayam basin, southwestern Turkey. **_Journal of Geodynamics_**, 135, 101707.
+
+Fang, Z., Jiang, G., Xu, C., & **Wang, S**. (2020). A tectonic geodesy mapping software based on QGIS. **_Geodesy and Geodynamics_**, 11(1), 31-39.
+
 2019
 
 **Wang, S**., Xu, W<sup>*</sup>., Xu, C., Yin, Z., Bürgmann, R., Liu, L., & Jiang, G. (2019). Changes in groundwater level possibly encourage shallow earthquakes in central Australia: The 2016 Petermann Ranges earthquake. **_Geophysical Research Letters_**, 46(6), 3189-3198.
@@ -82,9 +86,11 @@ Guo, Z., Wen, Y<sup>*</sup>., Xu, G., **Wang, S**., Wang, X., Liu, Y., Xu, C. (2
 
 Wang, X., Xu, C<sup>*</sup>., Wen, Y., **Wang, S.,** Xu, G., Xiao, Z., & Fang, L. (2019). The 2016 Mw 6.0 Hutubi earthquake: a blind thrust event along the northern Tian Shan front. **_Journal of Asian Earth Science_**, 173, 79–87. 
 
+徐文,许才军,肖卓辉, &**王帅**. (2019).利用GPS数据反演中国红河断裂带活动特性. **_武汉大学学报·信息科学版_** , 44 (5), 706-713.
+
 2018
 
-**Wang, S.,** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. _Seismological Research Letters_, 90, 649-658. 
+**Wang, S.,** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. **_Seismological Research Letters_**, 90, 649-658. 
 
 2017
 
