@@ -92,7 +92,7 @@ Wang, X., Xu, C<sup>*</sup>., Wen, Y., **Wang, S.,** Xu, G., Xiao, Z., & Fang, L
 
 **Wang, S.,** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. Seismological Research Letters_, 90, 649-658. 
 
-2017
+-2017-
 
 **Wang, S**., Xu, C<sup>*</sup>., Wen, Y., Yin, Z., Jiang, G., Fang, L. (2017). Slip model for the 25 November 2016 Mw 6.6 Aketao Earthquake, Western China, revealed by Sentinel-1 and ALOS-2 Observations. **_Remote Sensing_**, 9(4), 325
 
