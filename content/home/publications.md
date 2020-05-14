@@ -90,7 +90,7 @@ Wang, X., Xu, C<sup>*</sup>., Wen, Y., **Wang, S.,** Xu, G., Xiao, Z., & Fang, L
 
 -2018-
 
-**Wang, S.,** Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. Seismological Research Letters_, 90, 649-658. 
+**Wang, S**., Xu, C*., Xu W*., Yin, Z., Wen, Y., Jiang, G. (2018). The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. Seismological Research Letters, 90, 649-658. 
 
 -2017-
 
