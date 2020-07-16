@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: shwang@njtech.edu.cn  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:shwang@njtech.edu.cn  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: 
@@ -68,5 +68,5 @@ user_groups:
 # - Visitors
 ---
 
-Dr. Shuai Wang is a lector of space geodesy at Nanjing Tech University (NJTech). His research interests include, but not limited to, multi-temporal InSAR analysis, large-scale tectonic deformation in the Tibetan Plateau and geodetic inversion. He is a membor of the G3 (Geodesy, Geomatics, Geoscience) reaserch group at NJTech. The group toward to a better understanding of Earth science using the space geodesy (i.e., GRACE, GPS and InSAR).
+Dr. Shuai Wang is a lector of space geodesy at Nanjing Tech University (NJTech). His research interests include, but not limited to, multi-temporal InSAR analysis, large-scale tectonic deformation in the Tibetan Plateau and geodetic inversion. He is a membor of the LOG (Laboratory of Geodesy) reaserch group at NJTech. The group toward to a better understanding of Earth science using the space geodesy (i.e., GRACE, GPS and InSAR).
 
