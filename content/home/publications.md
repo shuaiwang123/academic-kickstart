@@ -67,7 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 -2020-
-**Wang, S.,** Jiang, G<sup>*</sup>., Weingarten, M., & Niu, Y. (2020). InSAR evidence indicates a linke between fluid injection for salt mining and the 2019 Changning (China) earthquake sequence. **_Geophysical Research Letters_**, https://doi.org/10.1029/2020GL087603.
+
+**Wang, S.,** Jiang, G<sup>*</sup>., Weingarten, M., & Niu, Y. (2020). InSAR evidence indicates a linke between fluid injection for salt mining and the 2019 Changning (China) earthquake sequence. **_Geophysical Research Letters_**, doi: 10.1029/2020GL087603.
 
 **Wang, S.,** Xu, C<sup>*</sup>., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting. **_Earth and Space Science_**, 7(3), e2019EA000966.
 
