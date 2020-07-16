@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="2020GRL.png" title="" lightbox="true" width="300" height="300" align="left" >}}
-[The work on the 2018 Papua New Guinea Mw 7.5 earthquake has been published in Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000966).
+[Our work on the 2019 Changning earthquake sequence has been published in Geophyscial Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087603).
 In June 2019, an earthquake sequence comprising five M>5 events occurred in a region of southwest China with fluid injection for both hydraulic fracturing and salt mining, which raised an extensive controversy on the cause. Here we use interferometric synthetic aperture radar (InSAR) observations to determine the source parameters of the sequence and to investigate the relationship with local injection activities. Both Sentinel-1 and ALOS-2 SAR images are collected to measure co- and pre-seismic surface deformation. Geodetic inversions with co-seismic observations show that the sequence ruptured a previously-unmapped southwest-dipping thrust fault above 3 km depth, which intersects with the open-hole sections of wells for solution mining of salt. In the 4 months before the sequence, cumulative line-of-sight displacements near the wells are around 1-2 cm after correcting seasonal-like deformation. Our results indicate that water injection likely enhanced pore pressure within the fault zone and thus contributed to inducing the sequence. 
 
 
