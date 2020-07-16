@@ -46,7 +46,7 @@ social:
   icon_pack: fab
   link: 
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: https://www.researchgate.net/profile/Shuai_Wang78
   link: 
 - icon: github
   icon_pack: fab
