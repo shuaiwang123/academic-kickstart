@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
+interests:
  - InSAR time series processing
  - Crustal deformation across the Bayan Har block
  - Geodetic modeling
 
-# education:
+education:
    courses:
 #   - course: PhD in Artificial Intelligence
 #     institution: Stanford University
