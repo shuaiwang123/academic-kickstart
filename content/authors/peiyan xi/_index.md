@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+ - InSAR time series processing
+ - Crustal deformation across the east Bayan Har block
+ - Geodetic modeling
 
-# education:
-#   courses:
+education:
+  courses:
 #   - course: PhD in Artificial Intelligence
 #     institution: Stanford University
 #     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+   - course: MEng in Geodesy and Survey Engineering
+     institution: Nanjing Tech University
+     year: 2021/07-
+   - course: BSc in Surveying and Mapping Engineering
+     institution: Nanjing Tech University
+     year: 2017/09-2021/06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +70,6 @@ user_groups:
 - Grad Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Peiyan is now a graduate student who received his bachelor's degree at Nanjing Tech University in June 2021. His research topic of the master's degree is studying on the crustal deformation across the east Bayan Har block, Tibetan Plateau, using geodetic measurements such as InSAR, GNSS and levelling. 
 
 ---
