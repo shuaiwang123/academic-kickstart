@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Graduate Student
+title: Peiyan Xi
 
 # Username (this should match the folder name)
 authors:
-- Graduate Student
+- Peiyan Xi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 
