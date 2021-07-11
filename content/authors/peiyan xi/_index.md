@@ -70,4 +70,4 @@ user_groups:
 - Grad Students
 ---
 
-Peiyan is now a graduate student and got his undergraduate degree from the Nanjing Tech University in June 2021. He joins the LOGO(Laboratory Of GeOdesy) team in July 2021. The research topic for his master dissertation is studying on the crustal deformation across the east Bayan Har Block, Tibetan Plateau, using InSAR and GPS data. 
+Peiyan is now a graduate student and got his undergraduate degree from the Nanjing Tech University in June 2021. He joins the LOGO(Laboratory Of GeOdesy) team in July 2021. The research topic for his master dissertation is studying on the crustal deformation across the east Bayan Har Block, Tibetan Plateau, using geodetic data such as InSAR and GNSS. 
