@@ -5,6 +5,7 @@ title: Graduate Student
 # Username (this should match the folder name)
 authors:
 - Peiyan Xi
+- Peiyan Xi
 
 # Is this the primary user of the site?
 superuser: true
