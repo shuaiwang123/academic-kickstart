@@ -70,6 +70,6 @@ user_groups:
 
 Dr. Shuai Wang is a lector of space geodesy at Nanjing Tech University (NJTech). His research interests include, but not limited to, multi-temporal InSAR analysis, large-scale tectonic deformation in the Tibetan Plateau and geodetic inversion. He is a membor of the LOGO (Laboratory Of GeOdesy) reaserch group at NJTech. The group toward to a better understanding of Earth science using the space geodesy (i.e., INSAR, GNSS and Levelling). 
 
-**Motto: Scientific research is a marathon that requires not only effort, luck and interest, but also persistence(科学研究是一场马拉松，除了需要努力、运气和兴趣外，还需要坚持).
+**Motto: Scientific research is a marathon that requires not only effort, luck and interest, but also more persistence科学研究是一场马拉松，除了需要努力、运气和兴趣外，更多的是需要坚持**
 
 
