@@ -66,6 +66,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+-2022-
+
+**Wang, S.,** Jiang, G<sup>*</sup>., Lei, X., Barbour, A.J., Tan, X., Xu, C., & Xu, X. (2022). Three Mw ≥ 4.7 earthquakes within the Changning (China) shale gas field ruptured shallow faults intersecting with hydraulic fracturing wells. **_Journal of Geophysical Research: Solid Earth_**, 127, e2021JB022946.
+
+**Wang, S<sup>*</sup>.,** Song, C., Li, S., & Niu, Y. (2022). Resolving co- and early post-seismic slip variations of the 2021 MW 7.4 Madoi earthquake in east Bayan Har block with a block-wide distributed deformation mode from satellite synthetic aperture radar data. **_Earth Planetary Physics_**,6(1), 108–122. 
+
+-2021-
+
+**王帅<sup>*</sup>**. (2021). 利用空间大地测量资料研究大陆区域构造变形模式. _测绘学报_,50(6),1. 
+
 -2020-
 
 **Wang, S.,** Jiang, G<sup>*</sup>., Weingarten, M., & Niu, Y. (2020). InSAR evidence indicates a link between fluid injection for salt mining and the 2019 Changning (China) earthquake sequence. **_Geophysical Research Letters_**, doi: 10.1029/2020GL087603.
