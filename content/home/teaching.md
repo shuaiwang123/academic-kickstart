@@ -28,6 +28,36 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Undergraduate course"
+  organization_url = ""
+  title = "Advance in Geomatics"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = ""
+  description = ""
+ 
+ [[item]]
+  organization = "Undergraduate course"
+  organization_url = ""
+  title = "Engineering Surveying"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = ""
+  description = ""
+ 
+ [[item]]
+  organization = "Undergraduate course"
+  organization_url = ""
+  title = "Foundation of Geodesy"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-09-01"
+  date_end = ""
+  description = ""
   
  [[item]]
   organization = "Graduate course"
