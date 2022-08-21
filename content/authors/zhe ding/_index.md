@@ -70,6 +70,6 @@ user_groups:
 - Grad Students
 ---
 
-Zhe is now a first-year graduate student who received his bachelor's degree at Nanjing Tech University in June 2022. His research topic of the master's degree is to study the crustal deformation due to hydraulic fracturing for the production of shale gas and oil in Sichuan and Jiangsu provinces, China, based on geodetic data and numerical modeling. 
+Zhe is now a first-year graduate student who received his bachelor's degree at Nanjing Tech University in June 2022. The research topic of his master's degree is to study the crustal deformation due to hydraulic fracturing for the production of shale gas and oil in Sichuan and Jiangsu provinces, China, based on geodetic data and numerical modeling. 
 
 ---
