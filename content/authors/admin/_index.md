@@ -18,13 +18,14 @@ organizations:
   url: "http://www.njtech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include InSAR time series processing, large-scale tectonic deformation, tectonic geodesy, geodetic inversion.
+bio: My research interests include InSAR time series processing, large-scale tectonic deformation, tectonic geodesy, induced deformation, geodetic inversion.
 
 interests:
-- multi-temporal InSAR analysis
-- large-scale deformation in Tibetan Plateau
-- atmospheric phase correction
-- geodetic inversion
+- Multi-temporal InSAR analysis
+- Large-scale deformation in Tibetan Plateau
+- Induced deformation due to anthropogenic activities 
+- Atmospheric phase correction method oriented for interseismic and induced deformation
+- Geodetic inversion
 
 education:
   courses:
@@ -69,7 +70,7 @@ user_groups:
 # - Visitors
 ---
 
-Dr. Shuai Wang is a lector of space geodesy at Nanjing Tech University (NJTech). His research interests include, but not limited to, multi-temporal InSAR analysis, large-scale tectonic deformation in the Tibetan Plateau and geodetic inversion. He leads LOGIN (Laboratory Of Geodesy In Njtech) reaserch group. The group toward to a better understanding of Earth science using the space geodesy (i.e., INSAR, GNSS and Levelling). 
+Dr. Shuai Wang is a lector of space geodesy at Nanjing Tech University (NJTech). His research interests include, but not limited to, multi-temporal InSAR analysis, large-scale tectonic deformation in the Tibetan Plateau, induced crustal deformation due to anthropogenic activities and geodetic inversion. He leads LOGIN (Laboratory Of Geodesy In Njtech) reaserch group. The group toward to a better understanding of Earth science using the space geodesy (i.e., INSAR, GNSS and Levelling). 
 
 **Motto: The process of scientific research is a marathon that requires not only effort, interest and luck, but also more persistence科学研究的过程是一场马拉松，除了需要努力、兴趣和运气外，更多的是需要坚持.**
 
