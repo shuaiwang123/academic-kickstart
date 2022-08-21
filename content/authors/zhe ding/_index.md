@@ -32,10 +32,10 @@ education:
 #     year: 2012
    - course: MEng in Geodesy and Survey Engineering
      institution: Nanjing Tech University
-     year: 2021/07-
+     year: 2022/09-
    - course: BSc in Surveying and Mapping Engineering
      institution: Nanjing Tech University
-     year: 2017/09-2021/06
+     year: 2018/09-2022/06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,6 @@ user_groups:
 - Grad Students
 ---
 
-Peiyan is now a graduate student who received his bachelor's degree at Nanjing Tech University in June 2021. His research topic of the master's degree is studying on the crustal deformation across the east Bayan Har block, Tibetan Plateau, using geodetic measurements such as InSAR, GNSS and levelling. 
+Zhe is now a first-year graduate student who received his bachelor's degree at Nanjing Tech University in June 2022. His research topic of the master's degree is to study the crustal deformation due to hydraulic fracturing for the production of shale gas and oil in Sichuan and Jiangsu provinces, China, based on geodetic data and numerical modeling. 
 
 ---
