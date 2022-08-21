@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-* Qianrong (a second-year undergraduate student) and Zhe joint our group.
+* Qianrong (a second-year undergraduate student) and Zhe join our group.
 
 * **Our work on the three Mw ≥ 4.7 earthquakes within the Changning (China) shale gas field has been published in Journal of Geophysical Research: Solid Earth.** 
 {{< figure library="true" src="2022JGR.png" title="" lightbox="true" width="400" height="400" align="left" >}}
