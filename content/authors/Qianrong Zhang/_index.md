@@ -64,7 +64,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 
 user_groups:
-- Grad Students
+- Grad & Undergraduate Students
 ---
 
 Qianrong is now a second-year undergraduate student at Nanjing Tech University. The research topic of her bachelor's degree is to study focal mechanisms of destroying typical earthquakes based on geodetic data. 
