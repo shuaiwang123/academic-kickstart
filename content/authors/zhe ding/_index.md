@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Peiyan Xi
+title: Zhe Ding
 
 # Username (this should match the folder name)
 authors:
-- Peiyan Xi
+- Zhe Ding
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,9 +22,9 @@ organizations:
 
 interests:
  - InSAR time series processing
- - Crustal deformation across the east Bayan Har block
- - Geodetic modeling
-
+ - Crustal deformation due to hydraulic fracturing for the production of shale gas and oil in Sichuan and Jiangsu provinces, China
+ - Numerical modeling for induced and triggered seismicity
+ 
 education:
   courses:
 #   - course: PhD in Artificial Intelligence
