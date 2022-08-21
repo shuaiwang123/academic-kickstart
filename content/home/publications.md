@@ -72,9 +72,13 @@ subtitle = ""
 
 **Wang, S<sup>*</sup>.,** Song, C., Li, S., & Niu, Y. (2022). Resolving co- and early post-seismic slip variations of the 2021 MW 7.4 Madoi earthquake in east Bayan Har block with a block-wide distributed deformation mode from satellite synthetic aperture radar data. **_Earth Planetary Physics_**,6(1), 108–122. 
 
+Qu, F., Zhang, Q., Niu, Y., Lu, Z., **Wang, S.,** Zhao, C., Zhu, W., Qu, W., & Yang, C. (2022). Mapping the Recent Vertical Crustal Deformation of the Weihe Basin (China) Using Sentinel-1 and ALOS-2 ScanSAR Imagery. **_Remote Sensing_**,14(13), 3182. 
+
 -2021-
 
 **王帅<sup>*</sup>**. (2021). 利用空间大地测量资料研究大陆区域构造变形模式. _测绘学报_,50(6),1. 
+
+Chen, W., Tenzer, R., Xu, X., **Wang, S.,** & Wang, B. (2021). Moho depth estimation beneath Tibet from satellite gravity data based on a condensation approach. **_Earth and Space Science_**,8(6), e2020EA001261. 
 
 -2020-
 
@@ -82,11 +86,15 @@ subtitle = ""
 
 **Wang, S.,** Xu, C<sup>*</sup>., Li, Z., Wen, Y., & Song, C. (2020). The 2018 Mw 7.5 Papua New Guinea earthquake: A possible complex multiple faults failure event with deep‐seated reverse faulting. **_Earth and Space Science_**, 7(3), e2019EA000966.
 
+Zhang, X., Feng, W., Du, H., Li, L., **Wang, S.,** Yi, L., & Wang, Y. (2020). The 2018 MW 7.5 Papua New Guinea earth- quake: A dissipative and cascading rupture process. **_Geophysical Research Letters_**, 47, e2020GL089271. 
+
 Niu, Y., **Wang, S**., Zhu, W., Zhang, Q<sup>*</sup>., Lu, Z., Zhao, C., & Qu, W. (2020). The 2014 Mw 6.1 Ludian earthquake: The application of RADARSAT-2 SAR Interferometry and GPS for this conjugated ruptured event. **_Remote Sensing_**, 12(1), 99.
 
 Yang, J., Xu, C<sup>*</sup>., **Wang, S**., & Wang, X. (2020). Sentinel-1 observation of 2019 Mw 5.7 Acipayam earthquake: A blind normal-faulting event in the Acipayam basin, southwestern Turkey. **_Journal of Geodynamics_**, 135, 101707.
 
 Fang, Z., Jiang, G., Xu, C<sup>*</sup>., & **Wang, S**. (2020). A tectonic geodesy mapping software based on QGIS. **_Geodesy and Geodynamics_**, 11(1), 31-39.
+
+李宇磊, 张永志, **王帅**, & 刘泰. (2020). 2015年尼泊尔Mw7.8地震的震后形变机制-震后余滑效应和黏滞性松弛效应. **_武汉大学学报:信息科学版_**, 45(10):10.
 
 -2019-
 
