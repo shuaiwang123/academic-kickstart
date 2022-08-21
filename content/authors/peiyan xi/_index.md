@@ -70,6 +70,6 @@ user_groups:
 - Grad Students
 ---
 
-Peiyan is now a graduate student who received his bachelor's degree at Nanjing Tech University in June 2021. His research topic of the master's degree is to study the crustal deformation across the east Bayan Har block, Tibetan Plateau, using geodetic measurements such as InSAR, GNSS and levelling. 
+Peiyan is now a second-year graduate student who received his bachelor's degree at Nanjing Tech University in June 2021. His research topic of the master's degree is to study the crustal deformation across the east Bayan Har block, Tibetan Plateau, using geodetic measurements such as InSAR, GNSS and levelling. 
 
 ---
