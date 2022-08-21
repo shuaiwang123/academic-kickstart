@@ -68,9 +68,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+-2021-
+
+**Wang S**. Topospheric phase correction method oriented for interseismic deformation using the short temporal baseline interferograms. The 3rd Annual Conference of China Earthquake Science Experimental Field, 2021, Guilin, China
+
 -2018-
 
-**Wang S**., Xu, C., Xu W. The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. International Symposium on Geodesy and Geodynamics (ISGG 2018)-Tectonics, Earthquake, and Geohazard, 2018, Kunming
+**Wang S**., Xu, C., Xu W. The 2017 Mw 6.6 Poso earthquake: Implications for extrusion tectonics in central Sulawesi. International Symposium on Geodesy and Geodynamics (ISGG 2018)-Tectonics, Earthquake, and Geohazard, 2018, Kunming, China
 
 -2016-
 
