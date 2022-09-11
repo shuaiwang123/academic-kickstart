@@ -75,3 +75,4 @@ Dr. Shuai Wang is a lector of space geodesy at Nanjing Tech University (NJTech).
 **Motto: The process of scientific research is a marathon that requires not only effort, interest and luck, but also more persistence科学研究的过程是一场马拉松，除了需要努力、兴趣和运气外，更多的是需要坚持.**
 
 
+{{< figure library="true" src="2020GRL.png" title="" lightbox="true" width="400" height="400" align="left" >}}
